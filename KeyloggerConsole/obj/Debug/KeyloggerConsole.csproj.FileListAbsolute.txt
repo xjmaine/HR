@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\obj\Debug\KeyloggerConsole.csprojAssemblyReference.cache
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\obj\Debug\KeyloggerConsole.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\bin\Debug\KeyloggerConsole.exe.config
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\bin\Debug\KeyloggerConsole.exe
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\bin\Debug\KeyloggerConsole.pdb
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\obj\Debug\KeyloggerConsole.exe
+C:\Users\user\source\repos\KeyloggerConsole\KeyloggerConsole\obj\Debug\KeyloggerConsole.pdb
